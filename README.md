@@ -1,4 +1,17 @@
 # Degradation-data-LED-packages-and-lamps
+
+## Aknowledge the AI-TWILIGHT project   
+Project info:
+https://cordis.europa.eu/project/id/101007319
+ 
+
+
+# Data
+    Raw and normalized data from LED testing.
+    The datasets comprise luminous flux depreciation data, chromaticity shift data and more.
+    See LEDdata folder for more details.
+
+
 A database of anonimiyed degradation(longitudinal) and reliability data from several light-edmitting diodes packages and lamps, obtained from accelerated stress tests like from the IES LM-80 normative
 
 

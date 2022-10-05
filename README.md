@@ -4,4 +4,4 @@ A database of anonimiyed degradation(longitudinal) and reliability data from sev
 
 
 
-![alt text](https://github.com/Roberock/Degradation-data-LED-packages-and-lamps/edit/main/Descriptive_Tables_LED_data.png?raw=true)
+![plot](/Descriptive_Tables_LED_data.png?raw=true)
